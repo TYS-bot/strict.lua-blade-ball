@@ -2,13 +2,6 @@
 
 scripts
 
-
- 
 1.blade ball
-
-
-
-
-
 
 2.
